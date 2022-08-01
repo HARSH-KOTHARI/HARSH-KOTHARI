@@ -1,7 +1,10 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Harsh Kothari</h1>
 <h3 align="center">I m an AI-ML enthusiast from India.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-kothari&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-kothari" /> </p>
+
 
 - 🔭 I’m currently working on [Breast Cancer Classification](https://github.com/HARSH-KOTHARI/Breast-Cancer-Classification)
 
