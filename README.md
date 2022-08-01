@@ -1,4 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 <h1 align="center">Hi 👋, I'm Harsh Kothari</h1>
 <h3 align="center">I m an AI-ML enthusiast from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/lOVCwPQv5ujmmpTx9T/giphy-downsized-large.gif">
